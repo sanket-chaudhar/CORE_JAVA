@@ -1,0 +1,32 @@
+package GeterSeter;
+
+public class Mydata {
+private int date;
+private String month;
+private int year;
+
+
+public void setdate(int day) {
+	date=day;
+}
+public int getdate() {
+	return date;
+	
+	
+}
+public void setmonth(String month) {
+  month=month;
+}
+public String getmonth() {
+	return month;
+}
+
+
+public void setyear(int year) {
+	year=year;
+}
+public int getyear() {
+	return year;
+}
+
+}

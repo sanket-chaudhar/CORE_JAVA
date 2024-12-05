@@ -1,0 +1,22 @@
+package Homework;
+
+public class Employee {
+private int basicsalary;
+private int hra;
+private int da;
+
+
+
+public Employee() {
+	basicsalary=2300;
+	hra=345;
+	da=234;
+}
+
+
+
+@Override
+public String toString() {
+	return "Employee [basicsalary=" + basicsalary + ", hra=" + hra + ", da=" + da + "]";
+}
+}
