@@ -1,7 +1,0 @@
-package Collections;
-
-import java.util.PriorityQueue;
-
-public class Queue {
-
-}
